@@ -17,21 +17,21 @@ Open the document for your project. Review the notes created yesterday and add y
  	<li><em>What questions do you have about this project?</em></li>
 </ul>
 
-<blockquote>Additional questions for today:</blockquote>
+<blockquote>Additional questions for today:
 <ul>
- 	<li>
-<blockquote>What are the researcher’s goals for this project?</blockquote>
+ 	<li>What are the researcher’s goals for this project?
 </li>
- 	<li>
-<blockquote>What are your goals for this project?</blockquote>
+ 	<li>What are your goals for this project?
 </li>
 </ul>
+</blockquote>
 
 <hr />
 
 ## STAGE TWO: Identifying Relevant Technologies
 
 Thinking about the types of technology you identified as needed or useful……
+
 <ul>
  	<li>List possible programs, tools, software, etc.</li>
  	<li>What are you already familiar with?</li>
