@@ -3,9 +3,7 @@
 ## STAGE ONE: Scoping your project, identifying goals
 We'll start by expanding on the group notes created yesterday afternoon.
 
-Open the document for your project. Review the notes created yesterday and add your own thoughts, ideas, comments, and questions.
-
-[DOCUMENT LINKS GO HERE]
+Open the document for your project. 
 
 <em>Questions to review:</em>
 <ul>
